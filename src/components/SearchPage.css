@@ -1,0 +1,26 @@
+.navbar {
+    height: 5rem;
+    background-image: linear-gradient(to right, rgba(214, 255, 241, 0.734), rgb(128, 215, 255));
+    box-shadow: 0 8px 10px -5px gray;
+    border-bottom: 0.5px solid gray;
+}
+
+.form {
+    margin-right: 28rem;
+}
+
+.btn {
+    width: 8rem;
+}
+
+.navbar-brand {
+    font-size: 30px !important;
+}
+
+.card {
+    margin: 5.3rem;
+}
+
+.details {
+    margin-left: 5rem;
+}
